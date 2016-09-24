@@ -1,0 +1,23 @@
+{
+  "name": "seamless-poster-broadcaster",
+  "version": "1.0.0",
+  "description": "aka Poster Device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seamless-poster/seamless-poster-broadcaster.git"
+  },
+  "author": "Jeronimo Vallelunga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seamless-poster/seamless-poster-broadcaster/issues"
+  },
+  "homepage": "https://github.com/seamless-poster/seamless-poster-broadcaster#readme",
+  "dependencies": {
+    "eddystone-beacon": "1.0.6",
+    "shorturl": "0.0.3"
+  }
+}
